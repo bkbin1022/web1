@@ -1,0 +1,61 @@
+html {background-image: url(qwer.jpg);}
+
+h1 {
+	font-size: 70px;
+	padding-left: 60px;
+	color: red;
+	position: relative;
+	bottom: 30px;
+	right: 30px;
+}
+
+h3 {
+	position: relative;
+	bottom: 60px;
+	right: 10px;
+	margin-left: 60px;
+	font-size: 40px;
+}
+
+/* Days (1-31) */
+.days li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 20px;
+	padding-bottom: 15px;
+	font-size: 30px;
+	position: relative;
+	bottom: 80px;
+	right: 10px;
+	color: green;
+}
+
+.days li a {
+	text-decoration: none;
+	color: inherit;
+}
+
+nav a { color: green;
+text-decoration: none; 
+font-family: 'Barlow', sans-serif;
+font-size: 25px;
+padding: 25px;}
+	
+nav li {
+	display: inline;
+	position: relative;
+	left: 650px;
+}
+
+.since {
+	float: left;
+	font-family: 'Slabo 27px', sans-serif;
+	font-size: 15px; 
+	position: relative;
+	bottom: 0;
+}
+	
+
+
+
+

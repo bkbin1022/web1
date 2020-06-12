@@ -1,0 +1,51 @@
+html { background-image: url(qwer.jpg); 
+}
+
+h1 {
+	text-align: center;
+font-size:80px;
+font-family: 'Gelasio', serif;
+}
+h2 {
+	font-size: 35px;
+	font-family: 'Slabo 27px', sans-serif;
+}
+
+.introducing p {
+	font-size: 20px;
+	font-family: 'PT Sans', sans-serif;
+}
+
+ul {
+	 list-style-position: inside;
+	 list-style-type:none;
+}
+nav{
+text-align: center;
+padding-right: 30px;
+padding-bottom: 10px;
+}
+
+nav a { color: green;
+text-decoration: none; 
+font-family: 'Barlow', sans-serif;
+font-size: 25px;
+padding: 25px;}
+	
+nav li {
+	display: inline;
+}
+
+
+.gallery {
+	text-align: center;	
+}
+
+.since {
+	float: left;
+	font-family: 'Slabo 27px', sans-serif;
+	font-size: 15px; 
+	position: relative;
+	bottom: 1px;
+}
+	
